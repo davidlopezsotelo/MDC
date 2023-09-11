@@ -2,8 +2,6 @@
     <string name="app_name">MDC</string>
     <string name="title_activity_scrolling">ScrollingActivity</string>
     <string name="large_text">
-        "Material is the metaphor.\n\n"
-
         "A material metaphor is the unifying theory of a rationalized space and a system of motion."
         "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
         "technologically advanced and open to imagination and magic.\n"
@@ -94,4 +92,5 @@
     <string name="add_task">Add task</string>
     <string name="card_btn_buy">BUY</string>
     <string name="card_btn_skip">SKIP\n</string>
+    <string name="card_title">Black Friday</string>
 </resources>

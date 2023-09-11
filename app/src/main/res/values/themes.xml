@@ -3,16 +3,17 @@
     <style name="Base.Theme.MDC" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-    </style>
+       <item name="colorSecondary">@color/purple_200</item>
+   </style>
 
-    <style name="Theme.MDC" parent="Base.Theme.MDC" />
+   <style name="Theme.MDC" parent="Base.Theme.MDC" />
 
-    <style name="Theme.MDC.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
+   <style name="Theme.MDC.NoActionBar">
+       <item name="windowActionBar">false</item>
+       <item name="windowNoTitle">true</item>
+   </style>
 
-    <style name="Theme.MDC.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+   <style name="Theme.MDC.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.MDC.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+   <style name="Theme.MDC.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
