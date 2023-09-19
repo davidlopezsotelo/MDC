@@ -3,4 +3,7 @@
     <string name="add_task">Add task</string>
     <string name="card_btn_buy">BUY</string>
     <string name="card_title">Black Friday</string>
+    <string name="card_imput_url">image URL</string>
+    <string name="card_required">required</string>
+    <string name="card_enable_pass">enable password</string>
 </resources>

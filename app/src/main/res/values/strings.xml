@@ -93,4 +93,11 @@
     <string name="card_btn_buy">BUY</string>
     <string name="card_btn_skip">SKIP\n</string>
     <string name="card_title">Black Friday</string>
+    <string name="card_imput_url">image URL</string>
+    <string name="card_required">required</string>
+    <string name="card_password">password</string>
+    <string name="card_enable_pass">enable password</string>
+    <string name="card_toggle_red">red</string>
+    <string name="card_toggle_blue">blue</string>
+    <string name="card_toggle_green">green</string>
 </resources>
